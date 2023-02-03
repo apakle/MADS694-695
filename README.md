@@ -1,4 +1,5 @@
-# SIADS 694 & 695 - Milestone II: Close Encounters: A Study of Small Body Trajectories in Our Solar System
+# SIADS 694 & 695 - Milestone II 
+## Close Encounters: A Study of Small Body Trajectories in Our Solar System
 
 Supervised and unsupervised machine learning using asteroid data (close-approaches of small bodies) from the Jet Propulsion Laboratory.
 
