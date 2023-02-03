@@ -1,6 +1,6 @@
 # Close Encounters: A Study of Small Body Trajectories in Our Solar System
 
-Supervised and unsupervised machine learning using asteroid data (close-approaches of small bodies) from the Jet Propulsion Laboratory. The study was conducted as a milestone project in the Master of Applied Data Science program from the University of Michigan.
+Supervised and unsupervised machine learning using asteroid data (close-approaches of small bodies) from the Jet Propulsion Laboratory. The study was conducted as milestone project in the Master of Applied Data Science program from the University of Michigan.
 
 By Andre Kleber, Trevor McCalmont, & Julien Weinstein
 
